@@ -28,7 +28,7 @@ The challenge is to make the RexROV, a Remotely Operated Vehicle, be able to aut
 
 </br>
 
-## First steps. 
+## First steps
 
 <div style="text-align: justify">
 
@@ -36,7 +36,7 @@ First a package was created in the workspace called findsunkenvessel. There is a
 
 </div>
 
-## Next steps. 
+## Next steps
 
 Create a workspace in your machine.
 
